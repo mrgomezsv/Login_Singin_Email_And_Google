@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="prefs_fire">com.login.app.PREFERENCE_FILE_KEY</string>
+
+</resources>
